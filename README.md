@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-- Actualmente aprendiendo Desarrollo Web por cuenta propia.
+- Trabajo con React, Java (Spring Boot) y MySQL.
 - Sitio web Personal [link](https://portafolio-miguel-cyan.vercel.app/)
 - Contacto: **miguel.jarecca@gmail.com**
 
@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,spring,swagger,mysql,git,github,postman,docker,kubernetes,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,spring,mysql,git,github,postman,docker,kubernetes,vscode,idea" />
   </a>
 </p>
 
