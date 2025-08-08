@@ -11,7 +11,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 - Actualmente aprendiendo Desarrollo Web por cuenta propia.
-- Sitio web Personal [link](https://migueljarecca.github.io/portafolio-miguel/)
+- Sitio web Personal [link](https://portafolio-miguel-cyan.vercel.app/)
 - Contacto: **miguel.jarecca@gmail.com**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías Conocidas</b>
@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,html,js,react,nodejs,mysql,git,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,spring,swagger,mysql,git,github,postman,docker,kubernetes,vscode,idea" />
   </a>
 </p>
 
